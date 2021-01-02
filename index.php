@@ -3,6 +3,6 @@
   <title>hello PHP Test</title>
  </head>
  <body>
- <?php echo '<p>PlaceHolder-ABC</p>'; ?> 
+ <?php echo '<p>PlaceHolder-AAAAAA</p>'; ?> 
  </body>
 </html>
