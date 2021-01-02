@@ -3,6 +3,6 @@
   <title>hello PHP Test</title>
  </head>
  <body>
- <?php echo '<p>PlaceHolder-EXAM</p>'; ?> 
+ <?php echo '<p>PlaceHolder-Practice</p>'; ?> 
  </body>
 </html>
